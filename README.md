@@ -307,7 +307,7 @@ footer {
 
 
 ## OUTPUT:
-![alt text](r2.png)
+![alt text](r21.png)
 ![alt text](r3.png)
 ![alt text](r4.png)
 

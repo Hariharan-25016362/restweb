@@ -114,6 +114,26 @@ nav a {
 .contact-info a:hover {
   text-decoration: underline;
 }
+administration {
+  padding: 2rem;
+  background: #f4f6f7;
+  text-align: center;
+}
+
+.admin-info p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.admin-info a {
+  color: #c0392b;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.admin-info a:hover {
+  text-decoration: underline;
+}
 form {
   background: rgba(255, 255, 255, 0.1); /* 🔧 Glass effect */
   backdrop-filter: blur(10px);
